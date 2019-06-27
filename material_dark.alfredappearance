@@ -5,20 +5,20 @@
       "subtext": {
         "size": 12,
         "colorSelected": "#FFFFFFC4",
-        "font": "Hack",
+        "font": "Dank Mono",
         "color": "#969796FF"
       },
       "shortcut": {
         "size": 16,
         "colorSelected": "#FFFFFFFF",
-        "font": "Hack",
+        "font": "Dank Mono",
         "color": "#647B88FF"
       },
       "backgroundSelected": "#475862FF",
       "text": {
         "size": 18,
         "colorSelected": "#FFFFFFFF",
-        "font": "Hack",
+        "font": "Dank Mono",
         "color": "#F1F2F1FF"
       },
       "iconPaddingHorizontal": 8,
@@ -32,7 +32,7 @@
       "text": {
         "size": 35,
         "colorSelected": "#000000FF",
-        "font": "Hack",
+        "font": "Dank Mono",
         "color": "#FEFFFEFF"
       },
       "backgroundSelected": "#B2D7FFFF"
